@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-animated-ui-examples",
-    "slug": "react-native-animated-ui-examples",
+    "name": "react-native-animated-ui-docs",
+    "slug": "react-native-animated-ui-docs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
